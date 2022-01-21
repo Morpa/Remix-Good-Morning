@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "id": "brazil-1",
+      "phrase": "Bom dia",
+      "description": "Brazilian Portuguese (Português do Brasil) is the variety of Portuguese dialect spoken in Brazil. It is spoken by virtually all of the 200 million inhabitants of Brazil and spoken widely across the Brazilian diaspora. European Portuguese differs from the Brazilian variety in pronunciation, as well as in some vocabulary.",
+      "flag": "🇧🇷"
+    },
+    {
+      "id": "us-1",
+      "phrase": "Good morning",
+      "description": "The term is derived from Middle English gud mornynge (also as goode morne, gode morne), from Old English *gōdne morgen (“good morning”), a conjugate for an expression such as “I wish you a good morning.”",
+      "flag": "🇺🇸"
+    },
+    {
+      "id": "es-1",
+      "phrase": "Buenos días",
+      "description": "Spanish is a Romance language spoken in much of the world. It is the official language of Spain, the United States, Mexico, and other Latin American countries. It is also the most widely spoken language in the Americas.",
+      "flag": "🇪🇸"
+    },
+    {
+      "id": "afrikaans-1",
+      "phrase": "Goeie more",
+      "description": "Afrikaans is a West Germanic language of Southern Africa mostly derived from Dutch. It developed as Dutch settlers and indigenous African mixed languages beginning in the 17th century. Today, an estimated 15 to 23 million people call Afrikaans their mother tongue. It is mainly spoken in South Africa and Namibia and can also be heard in parts of Botswana and Zimbabwe.",
+      "flag": "🇿🇦"
+    },
+    {
+      "id": "albanian-1",
+      "phrase": "Mirëmëngjes",
+      "description": "Albanian is an Indo-European language, spoken mainly in Albania and Kosovo, though it is also spoken in other areas of the Balkans. With about 7.5 million speakers, it comprises an independent branch within the Indo-European languages and is not closely related to any other language in Europe.",
+      "flag": "🇦🇱"
+    },
+    {
+      "id": "arabic-1",
+      "phrase": "صباح الخير (Sabah alkhyr)",
+      "description": "Arabic (العربية) is a Semitic language spoken by over 420 million people as their first language in areas including North Africa, the Arabian Peninsula, and other parts of the Middle East. Many more people can also understand it as a second language. Modern Standard Arabic is the liturgical language for 1.6 billion Muslims and is the official written form of the language with the Arabic alphabet, which is written from right to left.",
+      "flag": "🇸🇦"
+    },
+    {
+      "id": "armenian-1",
+      "phrase": "Բարի’ լույս: (Bari luys)",
+      "description": "Armenian is an Indo-European language spoken in the Republic of Armenia, as well as in large communities of Armenian diaspora by around 6.7 million people.",
+      "flag": "🇦🇲"
+    },
+    {
+      "id": "azerbaijani-1",
+      "phrase": "Sabahınız xeyir",
+      "description": "Azerbaijani or Azeri is the primary and official language of Azerbaijan by its 8.8 million native speakers. It is also widely spoken in Northern Iran and to a small extent in southern Dagestan, the Kvemo Kartli region of Georgia, eastern Turkey, in Shia cities of Iraq, like Karbala and Kirkuk. The language is a Turkic language and is highly intelligible with modern-day Turkish.",
+      "flag": "🇦🇿"
+    },
+    {
+      "id": "aklan-1",
+      "phrase": "mayad nga agahon",
+      "description": "Aklan also known as Aklanon is an Austronesian language spoken by 460,000 Aklanon people in the province of Aklan on the island of Panay in the Philippines.",
+      "flag": "🇵🇭"
+    },
+    {
+      "id": "aus-1",
+      "phrase": "G’day",
+      "description": "Australia has no official language, however Australian English is the variety of English spoken here.",
+      "flag": "🇦🇺"
+    }
+  ]
+}
