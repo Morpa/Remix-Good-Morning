@@ -1,53 +1,28 @@
-# Welcome to Remix!
+<h1 align="center">Remix Good Morning</h1>
 
-- [Remix Docs](https://remix.run/docs)
+<span>How I can say Good Morning in many languages</span>
 
-## Development
+<p align="center">
+  <img alt="Made by" src="https://img.shields.io/badge/made%20by-Morpa%20-%2356BEB8">
 
-From your terminal:
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/Remix-Good-Morning.svg?color=56BEB8">
 
-```sh
-npm run dev
-```
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/Remix-Good-Morning.svg?color=56BEB8">
 
-This starts your app in development mode, rebuilding assets on file changes.
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/Remix-Good-Morning?color=56BEB8">
 
-## Deployment
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/Remix-Good-Morning?color=56BEB8">
 
-First, build your app for production:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/Remix-Good-Morning?color=56BEB8">
 
-```sh
-npm run build
-```
+</p>
 
-Then run the app in production mode:
+## What is inside?
 
-```sh
-npm start
-```
+This project uses lot of stuff as:
 
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
-
-### Using a Template
-
-When you ran `npx create-remix@latest` there were a few choices for hosting. You can run that again to create a new project, then copy over your `app/` folder to the new project that's pre-configured for your target server.
-
-```sh
-cd ..
-# create a new project, and pick a pre-configured host
-npx create-remix@latest
-cd my-new-remix-app
-# remove the new project's app (not the old one!)
-rm -rf app
-# copy your app over
-cp -R ../my-old-remix-app/app app
-```
+- [TypeScript](https://www.typescriptlang.org/)
+- [Remix](https://remix.run/)
+- [tailwindcss](https://tailwindcss.com/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://github.com/typicode/husky)

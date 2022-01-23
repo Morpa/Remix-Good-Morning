@@ -1,0 +1,31 @@
+{
+  "version": "6926f319",
+  "entry": {
+    "module": "/build/entry.client-M2J4PLVY.js",
+    "imports": [
+      "/build/_shared/chunk-GJTYYKAY.js"
+    ]
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "module": "/build/root-SD7IO5JR.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": true,
+      "hasErrorBoundary": false
+    },
+    "routes/index": {
+      "id": "routes/index",
+      "parentId": "root",
+      "index": true,
+      "module": "/build/routes/index-O4UPRKHG.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": true
+    }
+  },
+  "url": "/build/manifest-6926F319.js"
+}
