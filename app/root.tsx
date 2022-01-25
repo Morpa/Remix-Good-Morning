@@ -9,17 +9,10 @@ import {
   useCatch
 } from 'remix'
 import { NotFound } from './components'
-import globalStylesUrl from './styles/global.css'
 import tailwindStyles from './tailwind.css'
 
 export const links: LinksFunction = () => {
-  return [
-    {
-      rel: 'stylesheet',
-      href: globalStylesUrl
-    },
-    { rel: 'stylesheet', href: tailwindStyles }
-  ]
+  return [{ rel: 'stylesheet', href: tailwindStyles }]
 }
 
 export default function App() {

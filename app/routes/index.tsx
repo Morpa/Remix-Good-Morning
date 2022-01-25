@@ -72,16 +72,16 @@ export default function () {
   }, [])
 
   return (
-    <div className="flex flex-col items-center justify-center text-center h-screen bg-gray-100, px-5">
-      <p className="text-center text-gray-700 md:text-8xl text-6xl font-bold transition-all">
+    <div className="bg-gray-100, flex h-screen flex-col items-center justify-center px-5 text-center">
+      <p className="text-center text-6xl font-bold text-gray-700 transition-all md:text-8xl">
         {goodMorningOfTheDay.flag}
       </p>
-      <h1 className="md:text-8xl text-6xl font-bold mb-8 transition-all">
+      <h1 className="mb-8 text-6xl font-bold transition-all md:text-8xl">
         {goodMorningOfTheDay.phrase}
       </h1>
       <p className="px-4 py-4 transition-all">
         <button
-          className="outline-none animate-pulse"
+          className="animate-pulse outline-none"
           onClick={() => speak(goodMorningOfTheDay.phrase)}
           title="Hear the pronunciation"
         >
@@ -89,7 +89,7 @@ export default function () {
         </button>
       </p>
 
-      <span className="text-sm mt-18">
+      <span className="mt-18 text-sm">
         * This app uses the new Web Speech API, so it may not work properly on
         some browsers/devices. In addition, not all sentences have translation.
       </span>
