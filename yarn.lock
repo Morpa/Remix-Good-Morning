@@ -7596,12 +7596,10 @@ remedial@^1.0.7:
   resolved "https://registry.yarnpkg.com/remedial/-/remedial-1.0.8.tgz#a5e4fd52a0e4956adbaf62da63a5a46a78c578a0"
   integrity sha512-/62tYiOe6DzS5BqVsNpH/nkGlX45C/Sp6V+NtiN6JQNS1Viay7cWkazmRkrQrdFj2eshDe96SIQNIoMxqhzBOg==
 
-remix@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-1.1.3.tgz#f0fde35aaea4c357646307762184c75bf1bea232"
-  integrity sha512-rhXWJwBlZwAR/DmE7Jw1jwcm3r6I2v4G+TD6pinNmUb1P522tvFAqsMXO/VB25ozK/8/9gOkd67CiRJVQ9wgiw==
-  dependencies:
-    fs-extra "^10.0.0"
+remix@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-1.5.0.tgz#853d4dda07f722f66d284560158b6d913728204e"
+  integrity sha512-oQ620O7Gxb8hyXvv+XQr2jo0ERHHSS7NQxYldF7cwHNZavJ/lUfu9ixqIHSP/rVFfq5UZMCz5T/ZkdGsrrauPA==
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
