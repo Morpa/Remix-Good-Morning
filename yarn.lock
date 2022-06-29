@@ -1970,10 +1970,10 @@
     node-fetch "^2.6.1"
     source-map-support "^0.5.21"
 
-"@remix-run/react@^1.3.4":
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.3.4.tgz#f253c90a2fb978e95209d0425b924c8d1cf5e489"
-  integrity sha512-2YqZepZfWzj9MkheNjZj9qOCqUVbw6J8TCk+nB7VHT+MCSeJAKlNcDm+L4FU+8D9ZzxPqNOPK8P67VDfTJay8A==
+"@remix-run/react@^1.6.2":
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.6.2.tgz#b6df695a3996a5d7d0912292e6dd3d0ffcfc5f81"
+  integrity sha512-SXK9Z/1QwfZtvBbirzrSa1/65jQZ77UgMqYRf+Zf/QYDcmk6k2Cm55TIyr1Nia+k5CZqOm8/A8FGi8RzJRg/BA==
   dependencies:
     history "^5.3.0"
     react-router-dom "^6.2.2"
