@@ -37,7 +37,7 @@
     "remix": "^1.5.1"
   },
   "devDependencies": {
-    "@graphql-codegen/add": "^3.1.1",
+    "@graphql-codegen/add": "^3.2.3",
     "@graphql-codegen/cli": "2.6.2",
     "@graphql-codegen/typescript": "2.7.4",
     "@graphql-codegen/typescript-operations": "2.5.6",
